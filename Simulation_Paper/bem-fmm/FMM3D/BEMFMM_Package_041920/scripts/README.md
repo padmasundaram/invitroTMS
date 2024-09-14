@@ -24,9 +24,14 @@
 
 <hr>
 <b>Fig4</b>: Effect of chamber size relative to the TMS coil<br>
+
+![Screenshot from 2024-09-14 16-47-19](https://github.com/user-attachments/assets/b705e5f1-1c3a-4681-89b1-2ce6a2642f72)
+
 <b>Run_Fig4_ChamberDim/main_script.m</b>
 
 ![Screenshot from 2024-09-14 13-15-59](https://github.com/user-attachments/assets/62a122eb-c5c3-44e8-a5a8-42110d80fef9)
+
+
 
 <hr>
 <b>Fig5</b>: Effect of Tissue Form Factor<br>
