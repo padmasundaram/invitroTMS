@@ -21,3 +21,9 @@
 
 <b>Run_Fig3_Chamber_Interface<b><br>
 ![Screenshot from 2024-09-14 11-58-48](https://github.com/user-attachments/assets/07ef72fe-fa85-4cf3-a06a-f0da8cfc5879)
+
+<hr>
+<b>Fig4</b>: Effect of chamber size relative to the TMS coil<br>
+
+<b>Model_Fig4_Chamber_Dim</b><br>
+![Screenshot from 2024-09-14 13-15-59](https://github.com/user-attachments/assets/62a122eb-c5c3-44e8-a5a8-42110d80fef9)
