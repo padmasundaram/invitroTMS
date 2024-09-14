@@ -24,8 +24,6 @@
 
 <hr>
 <b>Fig4</b>: Effect of chamber size relative to the TMS coil<br>
-
-<b>Model_Fig4_Chamber_Dim</b><br>
 <b>Run_Fig4_ChamberDim/main_script.m</b>
 
 ![Screenshot from 2024-09-14 13-15-59](https://github.com/user-attachments/assets/62a122eb-c5c3-44e8-a5a8-42110d80fef9)
