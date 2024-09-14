@@ -7,12 +7,12 @@ Select tissue_dim in main_script.m and it will do everything
 <hr>
 
 <b>Supplementary Figures S3, S4, S5</b>
-
-<b>Eprimary</b>
+<br>
+<b>Eprimary</b><br>
 ![Screenshot from 2024-09-14 16-03-20](https://github.com/user-attachments/assets/0f9f10ca-714c-4989-9504-57cd767cb8f4)
 
-<b>Esecondary</b>
+<b>Esecondary</b><br>
 ![Screenshot from 2024-09-14 16-02-57](https://github.com/user-attachments/assets/27cd4e78-e373-435f-b593-0ad2a988ff43)
 
-<b>Etotal</b>
+<b>Etotal</b><br>
 ![Screenshot from 2024-09-14 16-00-15](https://github.com/user-attachments/assets/bffd3d69-5c72-4b7b-a9e5-ffc279d3e37c)
