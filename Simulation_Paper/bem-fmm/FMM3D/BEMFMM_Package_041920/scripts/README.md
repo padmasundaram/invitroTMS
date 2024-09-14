@@ -19,7 +19,7 @@
 <b>Model_Fig3_Chamber_Interface</b><br>
 ![Screenshot from 2024-09-14 11-37-18](https://github.com/user-attachments/assets/007b828e-48c4-4d86-94c8-608e7ded9bfa)
 
-<b>Run_Fig3_Chamber_Interface<b><br>
+<b>Run_Fig3_Chamber_Interface</b><br>
 ![Screenshot from 2024-09-14 11-58-48](https://github.com/user-attachments/assets/07ef72fe-fa85-4cf3-a06a-f0da8cfc5879)
 
 <hr>
