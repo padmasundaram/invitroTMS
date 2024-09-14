@@ -6,9 +6,8 @@
 
 <br>
 <b>Run_Fig2_HEC</b>:<br>
-![Screenshot from 2024-09-14 13-01-55](https://github.com/user-attachments/assets/cfe01265-a418-45d9-b07e-78d69644f72e)
-<br>
 
+<br>![Screenshot from 2024-09-14 13-01-55](https://github.com/user-attachments/assets/35ff3c95-a0a1-49f7-b3ab-239033701cc9)
 
 <b>Fig3</b>: Effect of chamber type (submerged vs interface)<br>
 
