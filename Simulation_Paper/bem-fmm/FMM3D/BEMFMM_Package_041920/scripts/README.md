@@ -33,4 +33,13 @@
 
 ![Screenshot from 2024-09-14 15-57-07](https://github.com/user-attachments/assets/407a8f85-be48-4a1d-97a1-dbac146c1003)
 
+![Screenshot from 2024-09-14 16-15-42](https://github.com/user-attachments/assets/b5ba47ae-2967-435d-b2e8-945ffb38e97a)
+
+![Screenshot from 2024-09-14 16-15-26](https://github.com/user-attachments/assets/f07f18a8-3e99-44f6-9ecc-2210b6299cc0)
+
+![Screenshot from 2024-09-14 16-15-03](https://github.com/user-attachments/assets/6f707d47-3c6b-450c-bb46-8ba2338d122e)
+
+
+
+
 
