@@ -1,5 +1,5 @@
 # invitroTMS
-Code and Models accompanying in vitro TMS paper
+MATLAB Code and Models accompanying in vitro TMS paper
 
 <b>How Conductivity Boundaries Influence the Electric Field Induced by Transcranial Magnetic Stimulation in vitro Experiments</b>
 
